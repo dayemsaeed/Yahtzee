@@ -1,0 +1,12 @@
+﻿  yahtzee.c
+c:\users\dayem\onedrive\desktop\pa5\pa5\yahtzee.c(108): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(455): note: see declaration of 'getche'
+c:\users\dayem\onedrive\desktop\pa5\pa5\yahtzee.c(344): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\dayem\onedrive\desktop\pa5\pa5\yahtzee.c(830): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\dayem\onedrive\desktop\pa5\pa5\yahtzee.c(1026): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\dayem\onedrive\desktop\pa5\pa5\yahtzee.c(1278): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+  PA5.vcxproj -> C:\Users\dayem\OneDrive\Desktop\PA5\Debug\PA5.exe
